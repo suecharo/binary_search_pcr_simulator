@@ -1,10 +1,13 @@
 # Binary Search PCR Simulator
 
+## Environment
+
+- `python >= 3.6`
+
 ## How to use
 
 ```bash
->
-python3 simulate.py --help
+> python3 simulate.py --help
 usage: simulate.py [-h] [--simulate-num] [-b] [-s] [-i] [-fp] [-fn]
 
 optional arguments:
