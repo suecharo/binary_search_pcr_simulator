@@ -19,7 +19,7 @@ DEFAULT_NUMS = {
 def parse_args():
     parser = ArgumentParser()
     parser.add_argument(
-        "--simulate_num",
+        "--simulate-num",
         default=DEFAULT_NUMS["simulate_num"],
         type=int,
         help=f"Simulate num (default: {DEFAULT_NUMS['simulate_num']})",
