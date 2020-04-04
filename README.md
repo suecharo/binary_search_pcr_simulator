@@ -1,4 +1,4 @@
-# Binary Search PCR Sumulator
+# Binary Search PCR Simulator
 
 ## How to use
 
